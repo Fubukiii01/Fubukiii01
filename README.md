@@ -70,11 +70,4 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fubukiii01&hide_border=true&layout=compact" align="left" />  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Fubukiii01&show_icons=true&count_private=true&hide_border=true" align="right" /></div> 
+<br/>
