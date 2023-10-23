@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm Fubukiii, a part-time fivem developer 👨‍💻 working remotely since 2020 🚀</div>**  
+### **<div align="center">I'm Zaid Ahmed, a part-time fivem developer 👨‍💻 working remotely since 2020 🚀</div>**  
   
 
 ### <div align="center">Currently working on [Aim Arena](https://discord.io/aimarena)</div>  
